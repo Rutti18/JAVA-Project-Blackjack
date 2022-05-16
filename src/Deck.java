@@ -1,7 +1,7 @@
 // package com.blackjack;
 
 import java.util.ArrayList;
-// import java.util.Collections;                                    NOT IN YOUTUBE
+// import java.util.Collections;                        
 import java.util.Random;
 
 // import com.blackjack.Card;

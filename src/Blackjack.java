@@ -118,7 +118,7 @@ public class Blackjack {
                 endRound = true;
             }
 
-            playerDeck.moveAllToDeck(playingDeck);           // CHANGES MADE
+            playerDeck.moveAllToDeck(playingDeck);         
             dealerDeck.moveAllToDeck(playingDeck);
             System.out.println("End of hand");
 
